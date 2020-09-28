@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Coala Azul</string>
+    <string name="txt_coala_azul">Coala Azul</string>
+    <string name="imagem_coala_tbv">TODO</string>
+    <string name="btn_login">Login</string>
+    <string name="txt_ainda_no_tem_conta">Ainda não tem conta?</string>
+    <string name="txt_dando_suporte_a_voc">Dando suporte a você!</string>
+    <string name="txt_singup">Singup</string>
+    <string name="imagem_contagoogle">TODO</string>
+    <string name="imagem_contafacebook">TODO</string>
+    <string name="txt_bem_vindo_de_volta_amigo">Bem vindo de volta, amigo!</string>
+    <string name="txt_login_name">Name</string>
+    <string name="imagme_koala_login">TODO</string>
+    <string name="pass">Password</string>
+    <string name="txt_senha">Senha</string>
+    <string name="btn_logar">Button</string>
+    <string name="txt_ainda_n_o_tem_conta">Ainda não tem conta?</string>
+    <string name="txt_bem_vindo_novo_amigo">Bem vindo, novo amigo!</string>
+    <string name="imagem_cadastro">TODO</string>
+    <string name="txt_username_cadastro">Name</string>
+    <string name="txt_email_cadastro">Email</string>
+    <string name="cadastro_txt_senha">Senha</string>
+    <string name="scadastro_btn_ignup">SignUp</string>
+    <string name="_cadastroj_tem_conta">Já tem conta?</string>
+</resources>
